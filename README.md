@@ -137,5 +137,5 @@ info_label = tk.Label(root, text="Dimensions: \nChannels: ") # للمعلوما�
   <img src="https://github.com/user-attachments/assets/be2ac236-1be0-4444-85d9-d695c8427760" widt="100" >
 
   #### تصغير الصوره :
-<img src="" widt="100" >
+<img src="https://github.com/user-attachments/assets/6deb5756-ef68-4ed7-9447-4566a00e0f6e" widt="100" >
    
