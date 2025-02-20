@@ -124,18 +124,18 @@ info_label = tk.Label(root, text="Dimensions: \nChannels: ") # للمعلوما�
 # المخرجات 
 
 ###  *التقاط صور للتطبيق:*
-####*شكل الواجهة الرئيسية:*  
+#### *شكل الواجهة الرئيسية:*  
   <img src="https://github.com/user-attachments/assets/e3dd569f-2e06-4448-bfd4-90c15de1d488" widt="100" >
 
-####حفظ الصورة :
-
-<img src="" widt="100" >
-
-####*مثال على فتح صورة:*  
+#### *مثال على فتح صورة:*  
  <img src="https://github.com/user-attachments/assets/6abeaec3-cc70-401e-a2e1-654b9c299167" widt="100" >
-  
-### *تأثير Grayscale:*  
-  <img src="https://github.com/user-attachments/assets/be2ac236-1be0-4444-85d9-d695c8427760" widt="100" >
-  
+  #### حفظ الصورة :
 
+<img src="https://github.com/user-attachments/assets/293db28a-1c0f-435c-a389-56d7d623d51e" widt="100" >
+#### *تأثير Grayscale:*  
+
+  <img src="https://github.com/user-attachments/assets/be2ac236-1be0-4444-85d9-d695c8427760" widt="100" >
+
+  #### تصغير الصوره :
+<img src="" widt="100" >
    
